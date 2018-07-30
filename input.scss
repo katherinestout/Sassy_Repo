@@ -1,0 +1,9 @@
+$font-stack:    Helvetica, sans-serif;
+$primary-color: blue;
+
+
+body{
+    font: 100% $font-stack;
+  color: $primary-color;
+}
+//using sass --watch input.scss:output.css, you're able to use these files with scss and sass
